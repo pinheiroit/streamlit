@@ -2,7 +2,7 @@
 
 import streamlit as st
 import pandas as pd
-import flet 
+
 
 variavel = input('Digite o nome da variavel:')
 
