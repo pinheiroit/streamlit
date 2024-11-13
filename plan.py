@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import sqlite3
+import qrcode
 from PIL import Image
 from io import BytesIO
 
